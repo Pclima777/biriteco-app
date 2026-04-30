@@ -1,0 +1,12 @@
+{
+  "name": "biriteco-servidor",
+  "version": "1.0.0",
+  "description": "Servidor local Biriteco - sem dependencias",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

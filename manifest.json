@@ -1,0 +1,23 @@
+{
+  "name": "Biriteco — Bar e Distribuidora",
+  "short_name": "Biriteco",
+  "description": "Sistema de caixa - Bar e Distribuidora de Bebidas",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0c0e10",
+  "theme_color": "#13161a",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
